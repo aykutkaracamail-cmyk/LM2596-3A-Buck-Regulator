@@ -7,6 +7,6 @@ Bu projede giriş gerilimini düşürerek çıkışa aktarmak amaçlanmıştır.
 ## 📊 LTspice Simülasyon Sonucu
 ![LTspice Simülasyonu](Screenshot%202026-07-05%20162005.png)
 
-## PCB İlk Bakış
+## 📊 PCB İlk Bakış
 <img width="1217" height="722" alt="Screenshot 2026-07-07 082113" src="https://github.com/user-attachments/assets/b99203e2-5612-4efd-aae2-95b01a374e39" />
 
